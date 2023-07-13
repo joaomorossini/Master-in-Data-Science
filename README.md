@@ -2,7 +2,7 @@
 ___
 
 ## INTRODUÇÃO
-Esse repositório reúne as entregas de exercícios e desafios do curso de pós graduação **_[Master in Data and Decision Science, da Sirius Escola Superior de Tecnologia](https://app.sirius.education/)_**, bem como resumo que produzi e materiais complementares que colotei relacionados aos conteúdos do curso.
+Esse repositório reúne as entregas de exercícios e desafios do curso de pós graduação **_[Master in Data and Decision Science, da Sirius Escola Superior de Tecnologia](https://app.sirius.education/)_**, bem como resumos que produzi e materiais complementares que coletei relacionados aos conteúdos do curso.
 
 De acordo com a própria Sirius, _"Essa pós-graduação foi criada para profissionais que desejam realizar análises mais profundas aplicando técnicas de estatística e usando ferramentas de big data e machine learning, para solucionar problemas e encontrar respostas para perguntas de negócios – independente de qual for sua área de atuação."_
 ___
