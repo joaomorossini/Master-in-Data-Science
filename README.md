@@ -1,7 +1,13 @@
 # Master In Data and Decision Science
-Sirius Escola Superior de Tecnologia
-
+### [Sirius Escola Superior de Tecnologia](https://app.sirius.education/)
 ___
+
+## Notas
+Os diretórios e arquivos são prefixados com o número do **_módulo_**, da **_sprint_** e da **_semana_**, respectivamente.
+Por exemplo, o arquivo "1.1.2_Entrega.ipynb" se refere à entrega do módulo 1, sprint 1, semana 2.
+
+<BR>
+
 ___
 
 ## MÓDULO 1
