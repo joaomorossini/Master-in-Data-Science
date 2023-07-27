@@ -8,8 +8,8 @@ De acordo com a própria Sirius, _"Essa pós-graduação foi criada para profiss
 ___
 
 ## NOTAS
-Os diretórios e arquivos são prefixados com o número do **_módulo_**, da **_sprint_** e da **_semana_**, respectivamente.
-Por exemplo, o arquivo "1.1.2_Entrega.ipynb" se refere à entrega do módulo 1, sprint 1, semana 2.
+As pastas são prefixadas com o número do `**_módulo_**` e da `**_sprint_**`, respectivamente. Já os arquivos dentro das pastas são prefixados com o número da `**_semana_**` e o número da `**_dia_**`, de acordo com a programação oficial do curso.
+Por exemplo, a pasta `mod1.spr1_Estatistica_Descritiva_I` se refere à primeira sprint do módulo 1. Dentro dessa pasta, o arquivo `2.4_Testes_de_Hipoteses_Entrega.ipynb` se refere à entrega do quarto dia, da segunda semana dessa sprint.
 
 <BR>
 
@@ -30,16 +30,22 @@ ___
 - ANOVA (Análise de variância)
 - PostHoc
 
-## Estatística Descritiva II
+### Estatística Descritiva II
 - Clusterização
 - Mudando a escala dos dados
 - K-Means
 - Método do cotovelo
 - Coeficiente de silhueta
 
-## Business Intelligence and Data Visualization I
+### Business Intelligence and Data Visualization I
 
-## Business Intelligence and Data Visualization II
+### Business Intelligence and Data Visualization II
 
 ___
 
+## MÓDULO 2
+
+### Análise Multivariada de Dados
+- Análise fatorial exploratória
+- Regressão linear simples
+- Regressão linear multivariada
