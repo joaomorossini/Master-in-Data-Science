@@ -45,7 +45,18 @@ ___
 
 ## MÓDULO 2
 
-### Análise Multivariada de Dados
+### Análise Multivariada de Dados I
 - Análise fatorial exploratória
 - Regressão linear simples
 - Regressão linear multivariada
+
+### Análise Multivariada de Dados II
+- Regressão logística binomial
+- Regressão logística multinomial
+
+### Machine Learning I
+- 12 passos
+- Tipos de aprendizado de máquina
+- Algoritmos de classificação
+- Algoritmos de regressão
+- Algoritmos de clusterização
