@@ -60,3 +60,24 @@ ___
 - Algoritmos de classificação
 - Algoritmos de regressão
 - Algoritmos de clusterização
+
+### Machine Learning II
+- Regressão Linear (Linear Regression)
+- Regressão de Cume (Ridge Regression)
+- Regressão de Lasso (Lasso Regression)
+- KNN
+- Árvore de Decisão (Decision Tree)
+- SVM
+- Random Forest
+- XGBoost
+- Métricas de avaliação de modelos de ML
+
+## MÓDULO 3
+
+### Design de Experimentos
+- Abordagens experimentais
+- OFAT
+- Fatorial completo
+- Fatorial fracionado
+- Biblioteca pyDOE2
+- 
